@@ -1,2 +1,2 @@
 # DENKI-MD
-Bot whattsapp by 𝑫𝑬𝑵𝑲𝑰 ᴰᴱᵛ
+New Bot whattsapp by 𝑫𝑬𝑵𝑲𝑰 ᴰᴱᵛ
