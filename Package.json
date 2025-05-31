@@ -1,7 +1,7 @@
 {
   "name": "DENKI-MD",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By 𝑫𝑬𝑵𝑲𝑰..dev",
+  "description": "A WhatsApp Bot Created By 𝑫𝑬𝑵𝑲𝑰 ᴰᴱᵛ",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --DENKI-MD",
