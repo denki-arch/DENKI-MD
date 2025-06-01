@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By 𝑫𝑬𝑵𝑲𝑰 ᴰᴱᵛ",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --DENKI-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name DENKI-MD",
     "stop": "pm2 stop DENKI-MD",
     "restart": "pm2 restart DENKI-MD"
   },
