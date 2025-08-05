@@ -26,7 +26,7 @@
 
 ---
 
-## ∆DÉPLOYMENT OPTION🤓
+## 🤓DÉPLOYMENT OPTION🤓
 
 ### <br>   DEPLOY_HEROKU 
 
