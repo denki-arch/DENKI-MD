@@ -76,7 +76,7 @@ Click the button below to fork the repository and get your own copy:
 
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
-
+----------------
 
 ✨ DEPLOY ON WORKFLOW ✨
 
