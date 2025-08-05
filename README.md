@@ -20,7 +20,7 @@
 [![PAIR CODE](https://img.shields.io/badge/GET%20SESSION_ID-Generate%20Now-4CAF50?style=for-the-badge&logo=whatsapp)](https://)
 
 ---
-## ⚡MY CHANNEL WHATSAPP⚡ 
+## ⚡CHANNEL WHATSAPP⚡ 
 
 [![DENKI TECH HUB](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbB06qE9sBIFlu00Dq0R)
 
