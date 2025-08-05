@@ -34,7 +34,7 @@ Click the button below to fork the repository and get your own copy:
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/denki-arch/DENKI-MD)
+[![HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/denki-arch/DENKI-MD)
 
 ----------
 
