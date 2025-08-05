@@ -1,4 +1,4 @@
-yo<p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&height=200&lines=DENKI+MD;VERSION+1.0.0" alt="Typing SVG" />
   </a>
@@ -34,7 +34,7 @@ Click the button below to fork the repository and get your own copy:
 
 ------------
  
-href="https://dashboard.heroku.com/new<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/>
+href=<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/>
 ----------
 
 ### <br>   DEPLOY_TALKDROVE 
