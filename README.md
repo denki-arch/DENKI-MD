@@ -11,8 +11,6 @@
 
 ## 💫 FORK THE REPO 💫
 
-Click the button below to fork the repository and get your own copy:
-
 [![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/denki-arch/DENKI-MD/fork)
 
 
