@@ -25,7 +25,7 @@
 
 ---
 
-##⭐DENKI-MD DÉPLOYMENT OPTION ⭐
+## ⭐DENKI-MD DÉPLOYMENT OPTION ⭐
 
 ### <br>   DEPLOY_HEROKU 
 
