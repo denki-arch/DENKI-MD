@@ -17,7 +17,7 @@
 ---
 ## ✅ GET YOUR SESSION ID
 
-[![PAIR CODE](https://img.shields.io/badge/DENKI-MD%20SESSION_ID%20Now-4CAF50?style=for-the-badge&logo=whatsapp)](https://)
+[![PAIR CODE](https://img.shields.io/badge/DENKI-MD%20SESSION_ID%20-4CAF50?style=for-the-badge&logo=whatsapp)](https://)
 
 ---
 
