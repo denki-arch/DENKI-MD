@@ -53,7 +53,7 @@
 ### <br>   DEPLOY IN KOYEB 
 ---------
 
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY IN KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 ------------
 
