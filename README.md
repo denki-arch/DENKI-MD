@@ -11,7 +11,7 @@
 
 ## 💫 FORK THE REPO 💫
 
-[![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/denki-arch/DENKI-MD/fork)
+[![FORK REPO](https://img.shields.io/badge/FORK%20REPO-007ACC?style=for-the-badge&logo=github)](https://github.com/denki-arch/DENKI-MD/fork)
 
 
 ---
