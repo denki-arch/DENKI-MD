@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://files.catbox.moe/b9qaum.jpg" width="800"/>
 </p>
 
@@ -35,13 +35,13 @@
 
 ------------
 
-### <br>   DEPLOY_TALKDROVE 
+### <br>   DEPLOY IN TALKDROVE 
 
 <a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/TALKDROVE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 ----------
 
-### <br>    DEPLOY_REPLIT 
+### <br>    DEPLOY IN REPLIT 
 
 -------------
 
@@ -49,14 +49,14 @@
 
 --------------
 
-### <br>   DEPLOY_KOYEB 
+### <br>   DEPLOY IN KOYEB 
 ---------
 
 <a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 ------------
 
-### <br>   DEPLOY_RAILWAY 
+### <br>   DEPLOY IN RAILWAY 
 
 
 -------------
@@ -66,7 +66,7 @@
 ---------------
 
 
-### <br>    DEPLOY_RENDER 
+### <br>    DEPLOY IN RENDER 
 
 
 ----------------
@@ -75,7 +75,6 @@
 
 ----------------
 
-✨ DEPLOY ON WORKFLOW ✨
 
 ```
 
