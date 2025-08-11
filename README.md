@@ -25,10 +25,11 @@
 
 ---
 
-## ⚡DENKI-MD⚡
+
 ## 📡 DÉPLOYMENT OPTION
 
-### <br>   DEPLOY_HEROKU 
+------------
+### <br>   DEPLOY IN HEROKU 
 
 ------------
  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/>
