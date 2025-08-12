@@ -35,39 +35,22 @@
 ------------
 <a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY IN TALKDROVE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
-----------
-
-### <br>    DEPLOY IN REPLIT 
-
 -------------
 
-<p align="left"><a href="https://repl.it/github/denki-arch/DENKI-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/denki-arch/DENKI-MD"> <img src='https://img.shields.io/badge/-DEPLOY IN REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
-
-### <br>   DEPLOY IN KOYEB 
----------
 
 <a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY IN KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 ------------
 
-### <br>   DEPLOY IN RAILWAY 
 
-
--------------
-
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY IN RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
 
 ---------------
 
-
-### <br>    DEPLOY IN RENDER 
-
-
-----------------
-
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY IN RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 ----------------
 
