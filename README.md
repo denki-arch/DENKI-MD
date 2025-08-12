@@ -29,16 +29,11 @@
 ## 📡 DÉPLOYMENT OPTION
 
 ------------
-### <br>   DEPLOY IN HEROKU 
+
+ <img src="https://img.shields.io/badge/DEPLOY IN Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/>
 
 ------------
- <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/>
-
-------------
-
-### <br>   DEPLOY IN TALKDROVE 
-
-<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/TALKDROVE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=51' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY IN TALKDROVE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 ----------
 
