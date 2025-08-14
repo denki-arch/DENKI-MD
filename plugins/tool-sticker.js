@@ -1,4 +1,4 @@
-// coded by DybyTech 
+// coded by DENKI 
 
 const path = require("path");
 const { fetchGif, fetchImage, gifToSticker } = require('../lib/sticker-utils');
