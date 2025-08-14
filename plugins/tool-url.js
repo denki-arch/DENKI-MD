@@ -20,7 +20,7 @@ cmd({
     const mimeType = (quotedMsg.msg || quotedMsg).mimetype || '';
     
     if (!mimeType) {
-      throw "ᴘʟᴇᴀsᴇ ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ɪᴍᴀɢᴇ, ᴠɪᴅᴇᴏ, ᴏʀ ᴀᴜᴅɪᴏ ғɪʟᴇ";
+      throw "please reply to image,vidéo,or audio file";
     }
 
     // Download the media
@@ -62,10 +62,11 @@ cmd({
 
     // Send response
     await reply(
-      `*${mediaType} ᴜᴘʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ*\n\n` +
+      `*${mediaType} uploded 
+successfully *\n\n` +
       `*Size:* ${formatBytes(mediaBuffer.length)}\n` +
       `*URL:* ${mediaUrl}\n\n` +
-      `> © ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ ᴅʏʙʏ ᴛᴇᴄʜ `
+      `> © ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ 𝑫𝑬𝑵𝑲𝑰`
     );
 
   } catch (error) {
