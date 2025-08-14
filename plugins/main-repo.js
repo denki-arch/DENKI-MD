@@ -12,7 +12,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/DybyTech/MEGALODON-MD';
+    const githubRepoURL = 'https://github.com/denki-arch/DENKI-MD';
 
     try {
         const [, username, repoName] = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -29,19 +29,19 @@ async (conn, mek, m, { from, reply }) => {
         };
         const createdDate = new Date(repoData.created_at).toLocaleDateString();
         const lastUpdateDate = new Date(repoData.updated_at).toLocaleDateString();
-        const botname = "MEGALODON-MD";
+        const botname = "DENKI-MD";
 
-        const styleCustom = `*ʜᴇʟʟᴏ ,,,👋 ᴛʜɪs ɪs ${botname}*
-ᴛʜᴇ ʙᴇsᴛ ʙᴏᴛ ɪɴ ᴛʜᴇ ᴜɴɪᴠᴇʀsᴇ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ᴅʏʙʏ ᴛᴇᴄʜ. ғᴏʀᴋ ᴀɴᴅ ɢɪᴠᴇ ᴀ sᴛᴀʀ 🌟 ᴛᴏ ᴍʏ ʀᴇᴘᴏ
-╭───────────────────
-│✞ *sᴛᴀʀs:* ${repoInfo.stars}
-│✞ *ғᴏʀᴋs:* ${repoInfo.forks}
-│✞ *ʀᴇʟᴇᴀsᴇ Date:* ${createdDate}
-│✞ *ʟᴀsᴛ Update:* ${lastUpdateDate}
-│✞ *ᴏᴡɴᴇʀ:* ${author}
-│✞ *ʀᴇᴘᴏsɪᴛᴏʀʏ:* ${repoInfo.url}
-│✞ *sᴇssɪᴏɴ:* meg-lodon-session.up.railway.app 
-╰───────────────────`;
+        const styleCustom = `𝗛𝗲𝗹𝗹𝗼 👋 𝗜'𝗺 𝗗𝗘𝗡𝗞𝗜-𝗠𝗗 ,
+𝗗𝗘𝗡𝗞𝗜-𝗠𝗗 𝗶𝘀 𝗮 𝘄𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗯𝗼𝘁 𝗰𝗿𝗲𝗮𝘁𝗲𝗯 𝗯𝘆⚡𝑫𝑬𝑵𝑲𝑰⚡.
+𝗽𝗹𝗲𝗮𝘀𝗲 𝗳𝗼𝗿𝗸 𝗮𝗻𝗱 𝗴𝗶𝘃𝗲 𝗺𝗲 𝗮 𝘀𝘁𝗮𝗿 ⭐ 𝘁𝗼 𝗺𝘆 𝗿𝗲𝗽𝗼 
+╔════════════════════❒
+║☆ 𝔹𝕆𝕋 ℕ𝔸𝕄𝔼:DENKI-MD
+║☆ ℂℝ𝔼𝔸𝕋𝕆ℝ:⚡𝑫𝑬𝑵𝑲𝑰⚡ 
+║☆ 𝔽𝕆ℝ𝕂𝕊:${repoInfo.forks}
+║☆ 𝕊𝕋𝔸ℝ𝕊:${repoInfo.stars}
+║☆ ℝ𝔼ℙ𝕆:https://github.com/denki-arch/DENKI-MD
+║☆ 𝕊𝔼𝕊𝕊𝕀𝕆ℕ :
+╚════════════════════❒
 
         // Télécharger l'image
         const thumbnailBuffer = await axios.get('https://files.catbox.moe/2r9wy7.jpg', { responseType: 'arraybuffer' }).then(res => res.data);
@@ -56,7 +56,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401051937059@newsletter',
-                    newsletterName: '𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃',
+                    newsletterName: '𝐃𝐄𝐍𝐊𝐈-𝐌𝐃',
                     serverMessageId: 143
                 }
             }
