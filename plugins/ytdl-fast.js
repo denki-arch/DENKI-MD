@@ -31,13 +31,13 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
 
-        let ytmsg = `📹 *ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
-🎬 *ᴛɪᴛʟᴇ:* ${yts.title}
-⏳ *ᴅᴜʀᴀᴛɪᴏɴ:* ${yts.timestamp}
-👀 *ᴠɪᴇᴡs:* ${yts.views}
-👤 *ᴀᴜᴛʜᴏʀ:* ${yts.author.name}
-🔗 *ʟɪɴᴋ:* ${yts.url}
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅʏʙʏ ᴛᴇᴄʜ `;
+        let ytmsg = `📹 *vidéo downloader*
+🎬 *Title:* ${yts.title}
+⏳ *duration:* ${yts.timestamp}
+👀 *views:* ${yts.views}
+👤 *author:* ${yts.author.name}
+🔗 *link:* ${yts.url}
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝑫𝑬𝑵𝑲𝑰  `;
 
         // Send video directly with caption
         await conn.sendMessage(
