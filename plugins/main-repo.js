@@ -44,7 +44,7 @@ async (conn, mek, m, { from, reply }) => {
 ╚════════════════════❒
 
         // Télécharger l'image
-        const thumbnailBuffer = await axios.get('https://files.catbox.moe/2r9wy7.jpg', { responseType: 'arraybuffer' }).then(res => res.data);
+        const thumbnailBuffer = await axios.get('https://files.catbox.moe/b9qaum.jpg', { responseType: 'arraybuffer' }).then(res => res.data);
 
         // Envoyer le message avec image
         await conn.sendMessage(from, {
