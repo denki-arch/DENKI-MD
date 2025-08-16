@@ -40,7 +40,7 @@ async (conn, mek, m, { from, reply }) => {
 ║☆ 𝔽𝕆ℝ𝕂𝕊:${repoInfo.forks}
 ║☆ 𝕊𝕋𝔸ℝ𝕊:${repoInfo.stars}
 ║☆ ℝ𝔼ℙ𝕆:https://github.com/denki-arch/DENKI-MD
-║☆ 𝕊𝔼𝕊𝕊𝕀𝕆ℕ :
+║☆ 𝕊𝔼𝕊𝕊𝕀𝕆ℕ : denki-md-session-id.onrender.com
 ╚════════════════════❒
 
         // Télécharger l'image
