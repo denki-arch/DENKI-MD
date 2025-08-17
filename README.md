@@ -8,10 +8,6 @@
   <img src="https://files.catbox.moe/b9qaum.jpg" width="800"/>
 </p>
 
-[![DENKI TECH        HUB](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbB06qE9sBIFlu00Dq0R)
-
-----------
-
 
 💫 FORK THE REPO 💫
 
