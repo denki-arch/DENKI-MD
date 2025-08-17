@@ -7,15 +7,15 @@
 <p align="center"> 
   <img src="https://files.catbox.moe/b9qaum.jpg" width="800"/>
 </p>
+------------------
 
-
-## 💫 FORK THE REPO 💫
+💫 FORK THE REPO 💫
 
 [![FORK REPO](https://img.shields.io/badge/FORK%20REPO-007ACC?style=for-the-badge&logo=github)](https://github.com/denki-arch/DENKI-MD/fork)
 
 
----
-## ✅ GET YOUR SESSION ID
+------------------
+✅ GET YOUR SESSION ID
 
 [![PAIR CODE](https://img.shields.io/badge/DENKI-MD%20SESSION_ID%20-4CAF50?style=for-the-badge&logo=whatsapp)](https://denki-md-session-id.onrender.com/)
 
@@ -43,9 +43,11 @@
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY IN RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 ----------------
-⚙️ workflows
+⚙️ WORKFLOWS
 
 ```.github/workflows/deploy.yml```
+
+``````
 
 ```
 
