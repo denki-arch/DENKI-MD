@@ -120,7 +120,7 @@ const port = process.env.PORT || 9090;
 ║ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 : 𝑫𝑬𝑵𝑲𝑰 ᴰᴱᵛ   
 ║ 𝗬𝗢𝗨𝗥 𝗣𝗥𝗘𝗙𝗜𝗫 : ${prefix}       
 ║ 𝗕𝗢𝗧 𝗠𝗢𝗗𝗘 : ${mode}
-║ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : 
+║ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : https://whatsapp.com/channel/0029VbB06qE9sBIFlu00Dq0R
 ╚═══════════════════❒
 `;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/rxjtgv.jpg` }, caption: up })
