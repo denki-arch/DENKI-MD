@@ -115,12 +115,13 @@ const port = process.env.PORT || 9090;
   
   let up = `
 ╔═════════════════
-║ *DENKI-MD CONNECTED 🧒 💻*      
+║ *DENKI-MD CONNECTED✅*      
 ╠═════════════════
-║ *⚡𝑫𝑬𝑵𝑲𝑰 ᴰᴱᵛ*        
-╠═════════════════
-║ *🧩 YOUR PREFIX :* ${prefix}       
-╠═══════════════
+║ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 : 𝑫𝑬𝑵𝑲𝑰 ᴰᴱᵛ   
+║ 𝗬𝗢𝗨𝗥 𝗣𝗥𝗘𝗙𝗜𝗫 : ${prefix}       
+║ 𝗕𝗢𝗧 𝗠𝗢𝗗𝗘 : ${mode}
+║ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : 
+║
 `;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/rxjtgv.jpg` }, caption: up })
   }
