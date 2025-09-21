@@ -43,7 +43,7 @@ OWNER_NAME: process.env.OWNER_NAME || "⚡𝑫𝑬𝑵𝑲𝑰⚡",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ by 𝑫𝑬𝑵𝑲𝑰 ᴰᴱᵛ*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/rxjtgv.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/b9qaum.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *DENKI-MD*⚡",
 // add alive msg here 
