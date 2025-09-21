@@ -14,7 +14,7 @@ async (conn, mek, m, { reply, isCreator }) => {
         }  
 
         const { exec } = require("child_process");  
-        reply("megalodon Restarting...");  
+        reply("denki Restarting...");  
         await sleep(1500);  
         exec("pm2 restart all");  
     } catch (e) {  
